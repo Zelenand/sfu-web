@@ -1,0 +1,36 @@
+/* line 17, ../sass/style.scss */
+body {
+  font-family: "Courier New", Courier, monospace;
+  font-size: 14px;
+  color: #a0dfba;
+}
+
+/* line 29, ../sass/style.scss */
+.text_style_1 {
+  font-size: large;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+}
+
+/* line 32, ../sass/style.scss */
+.text_style_2 {
+  font-size: large;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+/* line 38, ../sass/style.scss */
+.color_style_1 {
+  background-color: #412fa8;
+  color: #3ace62;
+}
+
+/* line 41, ../sass/style.scss */
+.color_style_2 {
+  background-color: #3ace62;
+  color: #a82f2f;
+}
+
+/* line 44, ../sass/style.scss */
+.color_style_3 {
+  background-color: #a82f2f;
+  color: #412fa8;
+}
